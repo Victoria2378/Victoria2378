@@ -20,4 +20,4 @@
 
 ![Victoria2378 GitHub stats](https://github-readme-stats.vercel.app/api?username=Victoria2378&show_icons=true&theme=gruvbox)
 
-˚୨୧⋆｡˚ ⋆ Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você! 🐚 <br><br>
+˚୨୧⋆｡˚ ⋆ Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação!!! Estou ansiosa para ouvir de você! 🐚 <br><br>
