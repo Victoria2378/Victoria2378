@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c#,nodejs)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,discord,figma)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
