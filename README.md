@@ -7,10 +7,10 @@
     <img src="https://static.wikia.nocookie.net/gensin-impact/images/6/60/Icon_Emoji_Paimon%27s_Paintings_35_Kinich_4.png/revision/latest?cb=20240904041637" align="right" width="300px">
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c#,nodejs)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,cs,node.js,)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,discord,figma)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,discord,figma,ae,ps)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
